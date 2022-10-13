@@ -1,0 +1,23 @@
+PODS:
+  - KeychainSwift (20.0.0)
+  - ZJKeychain (0.1.0):
+    - KeychainSwift
+
+DEPENDENCIES:
+  - ZJKeychain (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - KeychainSwift
+
+EXTERNAL SOURCES:
+  ZJKeychain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KeychainSwift: 0ce6a4d13f7228054d1a71bb1b500448fb2ab837
+  ZJKeychain: cc60e2d7681927bec0dbaddb9580c6d8ec503148
+
+PODFILE CHECKSUM: 7debc7497eb2db37a6100405262eb41eea30a002
+
+COCOAPODS: 1.11.2
