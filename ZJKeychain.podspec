@@ -7,6 +7,7 @@
 #
 
 Pod::Spec.new do |s|
+    
   s.name             = 'ZJKeychain'
   s.version          = '0.1.0'
   s.summary          = 'A short description of ZJKeychain.'
@@ -20,5 +21,4 @@ Pod::Spec.new do |s|
   s.dependency "KeychainSwift"
   
 end
-
 
